@@ -2,10 +2,9 @@ package br.com.isaac.jjrentalcar.domain;
 
 import br.com.isaac.jjrentalcar.server.Driver;
 
-import java.sql.Connection;
-import java.sql.Date;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by Qualidade on 14/04/2016.
@@ -51,7 +50,62 @@ public class DriverDao {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
-
         }
+    }
+
+    public List<Driver> listDrivers() {
+
+        Connection con = null;
+        PreparedStatement stmt = null;
+        List<Driver> list = new ArrayList<Driver>();
+
+        try {
+            con = Conexao.getConnection();
+            stmt = con.prepareStatement("select * from driver");
+
+            ResultSet rs = stmt.executeQuery();
+
+            while (rs.next()) {
+                list.add(getBean(rs));
+            }
+
+        } catch (SQLException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } finally {
+
+            try {
+                stmt.close();
+                con.close();
+            } catch (SQLException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+        }
+
+        return list;
+
+    }
+
+    private Driver getBean(ResultSet rs) throws SQLException {
+        int id = rs.getInt("codigo");
+        String name = rs.getString("nome");
+        String cpf = rs.getString("cpf");
+        String rg = rs.getString("rg");
+        String adress = rs.getString("endereco");
+        String district = rs.getString("bairro");
+        String city = rs.getString("cidade");
+        String state = rs.getString("estado");
+        String cep = rs.getString("cep");
+        String phoneCode = rs.getString("codFone");
+        String phone1 = rs.getString("telefone");
+        String phone2 = rs.getString("telefone2");
+        Boolean status = rs.getBoolean("status");
+
+        Driver d = new Driver(name, cpf, rg, adress,district,city,state,cep,phoneCode,phone1,phone2,status);
+
+        d.setKey(id);
+
+        return d;
     }
 }

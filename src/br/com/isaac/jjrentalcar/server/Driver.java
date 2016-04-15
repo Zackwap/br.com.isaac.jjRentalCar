@@ -7,7 +7,8 @@ import java.util.Calendar;
  */
 public class Driver {
 
-    private String key, name, cpf, rg, adress, district, city, cep, state, phoneCode, phone1, phone2;
+    private int key;
+    private String  name, cpf, rg, adress, district, city, cep, state, phoneCode, phone1, phone2;
     private boolean status;
 
 
@@ -33,11 +34,11 @@ public class Driver {
     }
 
 
-    public String getKey() {
+    public int getKey() {
         return key;
     }
 
-    public void setKey(String key) {
+    public void setKey(int key) {
         this.key = key;
     }
 

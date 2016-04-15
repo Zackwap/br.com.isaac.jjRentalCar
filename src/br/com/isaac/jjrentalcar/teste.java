@@ -3,6 +3,9 @@ package br.com.isaac.jjrentalcar;
 import br.com.isaac.jjrentalcar.domain.DriverDao;
 import br.com.isaac.jjrentalcar.server.Driver;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by Qualidade on 15/04/2016.
  */
@@ -19,9 +22,13 @@ public class teste {
 
         driverDao.crateDriver(d);
 
+        List<Driver> l = new ArrayList<>();
 
+        l = driverDao.listDrivers();
 
-
+        for (int i = 0; i < l.size() ; i++) {
+            System.out.println(l.toString());
+        }
 
 
     }
