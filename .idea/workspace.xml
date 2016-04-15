@@ -2,9 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2a1321c-799b-4436-855b-928feef97d51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Login.html" afterPath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br.com.isaac.jjrentalcar.iml" afterPath="$PROJECT_DIR$/br.com.isaac.jjrentalcar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\Live\Login.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\css\bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dis\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\grunt\sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\phantom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\unit\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\vendor\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\vendor\qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\vendor\qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\affix-with-sticky-footer.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\affix.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\alert.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\button.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\collapse.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\modal.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\popover.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\tab.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tests\visual\tooltip.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\brand\bootstrap-outline.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\brand\bootstrap-punchout.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\brand\bootstrap-solid.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\css\docs.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\css\docs.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\css\ie10-viewport-bug-workaround.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\css\src\docs.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\css\src\pygments-manni.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\flash\ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\components.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\devices.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\expo-lyft.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\expo-newsweek.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\expo-riot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\expo-vogue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\img\sass-less.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\customize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\docs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\ie8-responsive-file-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\raw-files.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\src\application.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\src\customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\Blob.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\FileSaver.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\anchor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\autoprefixer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\holder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\jszip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\less.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\assets\js\vendor\uglify.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.isaac.jjrentalcar/br/com/isaac/jjrentalcar/live/Login.html" afterPath="$PROJECT_DIR$/out/production/br.com.isaac.jjrentalcar/br/com/isaac/jjrentalcar/live/Login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="br.com.isaac.jjrentalcar.iws" />
@@ -37,11 +142,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Login.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Login.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4257603">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state vertical-scroll-proportion="-8.5">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/Bootstrap/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3327338">
+              <caret line="133" column="3" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/Bootstrap/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -53,6 +178,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -72,6 +198,8 @@
         <option value="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/server/Driver.java" />
         <option value="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/domain/DriverDao.java" />
         <option value="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Login.html" />
+        <option value="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/index.html" />
+        <option value="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/Bootstrap/css/style.css" />
       </list>
     </option>
   </component>
@@ -168,7 +296,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="live" />
+              <option name="myItemId" value="Live" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="br.com.isaac.jjrentalcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="br.com.isaac.jjrentalcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jjrentalcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Live" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="br.com.isaac.jjrentalcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="br.com.isaac.jjrentalcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jjrentalcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Live" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,17 +374,19 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\Live\Bootstrap\css" />
       <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\Dist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\Live\Bootstrap\js" />
+      <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\Live\Bootstrap" />
       <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Others" />
       <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap\Dist" />
       <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live\Boostrap" />
-      <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\src\br\com\isaac\jjrentalcar\live" />
-      <recent name="C:\Users\Qualidade\IdeaProjects\br.com.isaac.jjrentalcar\Lib" />
     </key>
   </component>
   <component name="RunManager">
@@ -438,7 +624,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -530,7 +716,7 @@
         <state vertical-scroll-proportion="2.3646617">
           <caret line="96" column="45" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
           <folding>
-            <element signature="e#1668#1676#0" expanded="true" />
+            <element signature="e#1668#1676#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -543,7 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Boostrap/Dis/js/npm.js">
+    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/Bootstrap/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -551,34 +737,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Boostrap/assets/js/src/customizer.js">
+    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/Bootstrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Boostrap/Others/grunt/.jshintrc">
+    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Boostrap/Dis/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/Live/Bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/live/Login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4257603">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.3327338">
+          <caret line="133" column="3" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="3" />
           <folding />
         </state>
       </provider>
