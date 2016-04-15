@@ -7,8 +7,6 @@ import java.util.Calendar;
  */
 public class Driver {
 
-    String regDate;
-    private Calendar registratioDate;
     private String key, name, cpf, rg, adress, district, city, cep, state, phoneCode, phone1, phone2;
     private boolean status;
 
@@ -18,7 +16,7 @@ public class Driver {
     }
 
     public Driver(String name, String cpf, String rg, String adress,
-                  String district, String city, String cep, String state, String phoneCode,
+                  String district, String city, String state, String cep, String phoneCode,
                   String phone1, String phone2, boolean status) {
         this.name = name;
         this.cpf = cpf;
@@ -26,24 +24,14 @@ public class Driver {
         this.adress = adress;
         this.district = district;
         this.city = city;
-        this.cep = cep;
         this.state = state;
+        this.cep = cep;
         this.phoneCode = phoneCode;
         this.phone1 = phone1;
         this.phone2 = phone2;
         this.status = status;
     }
 
-
-    public String getRegistratioDate() {
-        regDate = registratioDate.get(Calendar.DAY_OF_MONTH) + "/" + registratioDate.get(Calendar.MONTH) + "/" + registratioDate.get(Calendar.YEAR);
-        return regDate;
-    }
-
-    public void setRegistratioDate(Calendar registratioDate) {
-        registratioDate = Calendar.getInstance();
-        this.registratioDate = registratioDate;
-    }
 
     public String getKey() {
         return key;
