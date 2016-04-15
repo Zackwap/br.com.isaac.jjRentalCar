@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2a1321c-799b-4436-855b-928feef97d51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lib/mysql-connector-java-5.1.38-bin.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/domain/Conexao.java" afterPath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/domain/Conexao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/server/Driver.java" afterPath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/server/Driver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/domain/DriverDao.java" afterPath="$PROJECT_DIR$/src/br/com/isaac/jjrentalcar/domain/DriverDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br.com.isaac.jjrentalcar.iml" afterPath="$PROJECT_DIR$/br.com.isaac.jjrentalcar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a2a1321c-799b-4436-855b-928feef97d51" name="Default" comment="" />
     <ignored path="br.com.isaac.jjrentalcar.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -378,7 +370,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
