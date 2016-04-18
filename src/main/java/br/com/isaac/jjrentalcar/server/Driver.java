@@ -137,4 +137,23 @@ public class Driver {
     public void setStatus(boolean status) {
         this.status = status;
     }
+
+    @Override
+    public String toString() {
+        return "Driver{" +
+                "key=" + key +
+                ", name='" + name + '\'' +
+                ", cpf='" + cpf + '\'' +
+                ", rg='" + rg + '\'' +
+                ", adress='" + adress + '\'' +
+                ", district='" + district + '\'' +
+                ", city='" + city + '\'' +
+                ", cep='" + cep + '\'' +
+                ", state='" + state + '\'' +
+                ", phoneCode='" + phoneCode + '\'' +
+                ", phone1='" + phone1 + '\'' +
+                ", phone2='" + phone2 + '\'' +
+                ", status=" + status +
+                '}';
+    }
 }
