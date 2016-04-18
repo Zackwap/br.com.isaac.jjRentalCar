@@ -72,13 +72,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/Live/Bootstrap/js/bootstrap.min.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/Live/Bootstrap/js/jquery.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/Live/Bootstrap/js/npm.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/br/com/isaac/jjrentalcar/domain/DriverDao.class" afterPath="$PROJECT_DIR$/out/production/main/br/com/isaac/jjrentalcar/domain/DriverDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/br/com/isaac/jjrentalcar/server/Driver.class" afterPath="$PROJECT_DIR$/out/production/main/br/com/isaac/jjrentalcar/server/Driver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/br/com/isaac/jjrentalcar/teste.class" afterPath="$PROJECT_DIR$/out/production/main/br/com/isaac/jjrentalcar/teste.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/Live/webView/Bootstrap/css/style.css" afterPath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/Live/webView/Bootstrap/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/domain/DriverDao.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/domain/DriverDao.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/server/Driver.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/server/Driver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/teste.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/isaac/jjrentalcar/teste.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/main.iml" afterPath="$PROJECT_DIR$/src/main/main.iml" />
@@ -1021,15 +1015,15 @@
       <workItem from="1460759447084" duration="3674000" />
       <workItem from="1460773317836" duration="4104000" />
       <workItem from="1460814617029" duration="627000" />
-      <workItem from="1460983075834" duration="6817000" />
+      <workItem from="1460983075834" duration="7123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15787000" />
+    <option name="totallyTimeSpent" value="16093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
