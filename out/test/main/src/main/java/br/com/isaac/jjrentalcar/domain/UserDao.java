@@ -1,6 +1,8 @@
 package br.com.isaac.jjrentalcar.domain;
 
+
 import br.com.isaac.jjrentalcar.server.Driver;
+import br.com.isaac.jjrentalcar.server.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,32 +12,30 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Qualidade on 14/04/2016.
+ * Created by Qualidade on 18/04/2016.
  */
-public class DriverDao {
+public class UserDao {
 
-    public void crateDriver(Driver d) {
+    public void crateUser(User d) {
 
         Connection con = null;
         PreparedStatement stmt = null;
 
         try {
             con = Conexao.getConnection();
-            stmt = con.prepareStatement("insert into driver (nome,cpf,rg,endereco,bairro,cidade,estado,cep,codFone,telefone,telefone2,status) " +
-                    "values (?,?,?,?,?,?,?,?,?,?,?,?) ");
+            stmt = con.prepareStatement("insert into user (login,nome,endereco,bairro,cidade,estado,cep,codFone,telefone,status) " +
+                    "values (?,?,?,?,?,?,?,?,?,?) ");
 
-            stmt.setString(1, d.getName());
-            stmt.setString(2, d.getCpf());
-            stmt.setString(3, d.getRg());
-            stmt.setString(4, d.getAdress());
-            stmt.setString(5, d.getDistrict());
-            stmt.setString(6, d.getCity());
-            stmt.setString(7, d.getState());
-            stmt.setString(8, d.getCep());
-            stmt.setString(9, d.getPhoneCode());
-            stmt.setString(10, d.getPhone1());
-            stmt.setString(11, d.getPhone2());
-            stmt.setBoolean(12, d.isStatus());
+            stmt.setString(1, d.getLogin());
+            stmt.setString(2, d.getName());
+            stmt.setString(3, d.getAdress());
+            stmt.setString(4, d.getDistrict());
+            stmt.setString(5, d.getCity());
+            stmt.setString(6, d.getState());
+            stmt.setString(7, d.getCep());
+            stmt.setString(8, d.getPhoneCode());
+            stmt.setString(9, d.getPhone());
+            stmt.setBoolean(10, d.getStatus());
 
             stmt.executeUpdate();
 
@@ -56,15 +56,15 @@ public class DriverDao {
         }
     }
 
-    public List<Driver> listDrivers() {
 
+    public List<User> listUsers() {
         Connection con = null;
         PreparedStatement stmt = null;
-        List<Driver> list = new ArrayList<>();
+        List<User> list = new ArrayList<>();
 
         try {
             con = Conexao.getConnection();
-            stmt = con.prepareStatement("select * from driver");
+            stmt = con.prepareStatement("select * from user");
 
             ResultSet rs = stmt.executeQuery();
 
@@ -84,17 +84,15 @@ public class DriverDao {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
+
         }
-
         return list;
-
     }
 
-    private Driver getBean(ResultSet rs) throws SQLException {
+    private User getBean(ResultSet rs) throws SQLException {
         int id = rs.getInt("codigo");
+        String login = rs.getString("login");
         String name = rs.getString("nome");
-        String cpf = rs.getString("cpf");
-        String rg = rs.getString("rg");
         String adress = rs.getString("endereco");
         String district = rs.getString("bairro");
         String city = rs.getString("cidade");
@@ -102,13 +100,13 @@ public class DriverDao {
         String cep = rs.getString("cep");
         String phoneCode = rs.getString("codFone");
         String phone1 = rs.getString("telefone");
-        String phone2 = rs.getString("telefone2");
+
         Boolean status = rs.getBoolean("status");
 
-        Driver d = new Driver(name, cpf, rg, adress,district,city,state,cep,phoneCode,phone1,phone2,status);
+        User u = new User(login,name,adress,district,city,state,cep,phoneCode,phone1,status);
 
-        d.setKey(id);
+        u.setKey(id);
 
-        return d;
+        return u;
     }
 }
