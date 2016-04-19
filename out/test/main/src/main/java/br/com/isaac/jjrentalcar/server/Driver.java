@@ -1,6 +1,9 @@
 package br.com.isaac.jjrentalcar.server;
 
+import com.sun.jna.platform.win32.OaIdl;
+
 import java.util.Calendar;
+import java.util.Date;
 
 /**
  * Created by Qualidade on 14/04/2016.
@@ -8,7 +11,7 @@ import java.util.Calendar;
 public class Driver {
 
     private int key;
-    private String  name, cpf, rg, adress, district, city, cep, state, phoneCode, phone1, phone2;
+    private String name, cpf, rg, adress, district, city, cep, state, phoneCode, phone1, phone2;
     private boolean status;
 
 
@@ -61,6 +64,7 @@ public class Driver {
     public String getRg() {
         return rg;
     }
+
 
     public void setRg(String rg) {
         this.rg = rg;
